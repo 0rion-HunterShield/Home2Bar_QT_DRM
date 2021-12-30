@@ -302,3 +302,6 @@ xlwt
 zipp
 zope.event
 zope.interface
+qrtools
+python-qrcode
+
